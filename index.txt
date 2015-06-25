@@ -1,0 +1,26 @@
+Index of Matlab-Files for figures:
+==================================
+
+Figure:     
+4       Fig4capBSC.m
+7       Fig7RIERC.m
+9       Fig9tranprob.m
+10      GEvsIIDnew.m            (SeqProb.c for generating tables)
+11      TCP-window-example.m    (w/o legends)
+28      scenario.m		(requires res_loss.m,res_ri.m,virtual_loss.m)
+32      fountain.m
+33      ???
+40      FECvsARQ_Fig.m          (requires Optimizing_ARQ/FEC.m)
+47      HLBPvsBLBPvsLBPiidRx.m
+48      HLBPvsBLBPvsLBPSGERx.m
+49      HLBPvsBLBPvsLBPSGEex.m
+50      HLBPvsBLBPvsLBPSGEcorrx.m
+51      HLBPvsXDx.m
+52      BLBPvsLBPvsHECPRRx.m
+53      BLBPvsLBPvsHECPRExDelay.m
+55      dct-example.m           (requires customgauss.m,mpeg_dct.m,plot_png_fixed.m)
+56      dct_dist.m              (requires automedon_crop.png,(un)freezeColors.m,plot_png_fixed.m)
+57      dct-example.m           (requires customgauss.m,mpeg_dct.m,plot_png_fixed.m)
+62      pcr.m
+63      pcr.m
+64      pcr.m
